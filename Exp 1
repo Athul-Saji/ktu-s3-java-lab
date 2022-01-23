@@ -21,6 +21,6 @@ public class Experiment 1 {
 			System.out.println("The string is palindrome");
 		}
 		else
-			System.out.println("The string is not a palindrome");
+			System.out.println("The string is not a palindrome ");
 	}
 }
